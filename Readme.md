@@ -1,0 +1,1 @@
+This repository showcases common mistakes we make when implementing publish/subscribe systems in Go.
